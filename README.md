@@ -65,14 +65,4 @@ No Módulo Quatro, você explorará a evolução das redes ao longo do tempo, in
 Avaliado: Questionário do Módulo 4
 Avaliado: Envio da Tarefa 4
 
-Classificação e tarefas
-
-Course Item	Percentage of Final Grade	Passing Grade
-Week 1 Quiz	5%	80%
-Week 1 Notebook Assignment	18%	80%
-Week 2 Quiz	5%	80%
-Week 2 Notebook Assignment	18%	80%
-Week 3 Quiz	5%	80%
-Week 3 Notebook Assignment	18%	80%
-Week 4 Quiz	5%	80%
-Week 4 Notebook Assignment	26%	80%
+![image](https://github.com/SelmaCantelli/Analise-de-rede-social-aplicada-em-Python-da-Universidade-de-Michigan/assets/77678430/4aeb7e2b-a206-408a-be34-28cf3c38cf79)
